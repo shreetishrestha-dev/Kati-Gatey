@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "आज कति गते?",
+    "description": "Displays current Nepali (Bikram Sambat) date",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png"
+      }
+    },
+    "permissions": [],
+    "host_permissions": [],
+    "icons": {
+      "16": "icon.png"
+    }
+  }
+  
